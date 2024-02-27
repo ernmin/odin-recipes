@@ -1,5 +1,5 @@
 body{
-    background-color: #f3e6ed;
+    background-color: #d8e4dd;
 }
 
 #title{
@@ -7,13 +7,11 @@ body{
 }
 .column{
     float: left;
-    width: 33.33%;
-    padding: 5px;
+    padding: 25px
 }
 
-.row::after{
-    content: "";
-    clear: both;
-    display: table;
+button{
+    color: white;
+    background-color: rgb(12, 65, 19)
 }
 

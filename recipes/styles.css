@@ -1,9 +1,14 @@
 body{
-    background-color: #f3e6ed;
+    background-color: #d8e4dd;
 }
 
 #title{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 22px;
+}
+
+button{
+    color: white;
+    background-color: rgb(12, 65, 19)
 }
 
